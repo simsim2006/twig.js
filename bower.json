@@ -4,7 +4,6 @@
   "main": "twig.min.js",
   "ignore": [
     "Makefile",
-    "src",
     "demos",
     "bin",
     "lib",
